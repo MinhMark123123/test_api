@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Chả bò ngon",
+    "category_id":1,
+    "description": "Chả bò là món ngon mỗi ngày quen thuộc của ngừời dân Việt Nam trong những dịp lễ Tết. Với hương vị thơm ngon, hấp dẫn, chả bò đã dần trở nên phổ biến hơn trong các bữa ăn hằng ngày với mức tiêu thụ lớn. Chính vì vậy mà đã có không ít người săn lùng cách làm chả bò đơn giản để tự phục vụ gia đình hoặc kinh doanh. \n Nạc bò được xay mịn, tẩm ướp cùng các gia vị theo công thức chuyên biệt, gói trong lá chuối và đem hấp hoặc luộc để cho ra thành phẩm có mùi thơm lan tỏa, kết cấu hài hòa, đặc biệt là hương vị đậm đà không lẫn vào đâu được. Mang ý nghĩa của sự đủ đầy, chả bò sẽ giúp bạn cảm nhận trọn vẹn nét đẹp trong văn hóa ẩm thực Việt Nam.",
+    "rate": 5,
+    "image": "https://images.pexels.com/photos/2059150/pexels-photo-2059150.jpeg",
+    "meta": {
+      "prep": 25,
+      "cook": 60,
+      "feed": "4-6"
+    }
+  },
+  {
+    "title": "Phở xào",
+    "category_id":3,
+    "description": "Phở xào là món ăn yêu thích, món ngon của nhiều người vì có cách làm đơn giản và dễ biến tấu cùng nhiều nguyên liệu như nấm, thịt bò, rau cải,…  \n Nếu món phở truyền thống đã quá quen thuộc thì tại sao bạn không thử làm phở xào bò với hương vị hoàn toàn khác biệt. Từng sợi bánh phở mềm dai thấm đẫm trong nước xốt đậm đà cùng các loại nguyên liệu tươi ngon, chắc chắn sẽ chinh phục bạn ngay từ lần đầu tiên thưởng thức.",
+    "rate": 3,
+    "image": "https://images.pexels.com/photos/2059150/pexels-photo-2059150.jpeg",
+    "meta": {
+      "prep": 25,
+      "cook": 40,
+      "feed": "2"
+    }
+  },
+  {
+    "title": "Cá biển kho",
+    "category_id":2,
+    "description": "Với cách kho cá biển ngon , bạn sẽ có ngay một món ngon đầy hấp dẫn, tươi ngọt tự nhiên để đổi gió khẩu vị hoặc làm phong phú thêm thực đơn kinh doanh. Không chỉ mang đến hương vị đậm đà, món cá biển kho còn trông rất bắt mắt, kích thích thị giác khiến thực khách chỉ muốn thưởng thức ngay từ cái nhìn đầu tiên!",
+    "rate": 3,
+    "image": "https://images.pexels.com/photos/2059150/pexels-photo-2059150.jpeg",
+    "meta": {
+      "prep": 25,
+      "cook": 50,
+      "feed": "4-6"
+    }
+  },
+  {
+    "title": "Gỏi dưa leo khô cá sặc",
+    "category_id":1,
+    "description": "Khô cá sặc mặn mà kết hợp với dưa leo giòn mát, đậu phộng thơm bùi và vị chua ngọt đậm đà của nước trộn gỏi vô cùng lạ miệng sẽ khiến bạn ăn hoài mà không ngán.\n Khô cá sặc là một đặc sản nổi tiếng của người dân Nam bộ. Cá sặc được tẩm mặn, phơi khô nên không cần chế biến cầu kỳ, chỉ cần đem chiên với chút dầu ăn là có ngay món ăn cơm cho những ngày bận rộn. Ngoài ra, khô cá sặc còn là nguyên liệu chính của nhiều món ngon như: gỏi xoài khô cá sặc, cơm chiên khô cá sặc, khô sặc kho tép mỡ,…\n Gỏi dưa leo khô sặc thường dùng để ăn vặt, nhâm nhi trong bữa nhậu hay làm món khai vị trong bữa tiệc nhỏ của gia đình.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/8954227/pexels-photo-8954227.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Canh ghẹ rau muống",
+    "category_id":2,
+    "description": "Bạn đã từng nghe qua món canh lạ miệng này nhưng cách nấu canh ghẹ rau muống thì chắc hẳn nhiều người chưa biết đến. Món canh tuy đơn giản mà ngon ngọt, bắt mắt với màu xanh ngắt của rau muống cùng thịt ghẹ đỏ tươi, trưa nắng mà húp muỗng nước canh trong vắt, ngọt lịm thì bao nhiêu mệt nhọc cũng đều tan biến.\n Giống như cua đồng nấu với rau đay hay ếch xào phải có lá lốt, ghẹ và rau muống từ lâu đã trở thành một “cặp bài trùng” cho món ăn ngon. Canh ghẹ rau muống là món ngon mỗi ngày, là món ăn dân dã, dễ nấu với những nguyên liệu đơn giản, dễ tìm. Rau muống và ghẹ đều là những loại thực phẩm có tính hàn, có công dụng giải nhiệt cơ thể nên thường được nấu trong những ngày nóng nực, oi ả.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/4210858/pexels-photo-4210858.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Gỏi dưa leo khô cá sặc",
+    "category_id":1,
+    "description": "Với cách làm vịt om sấu khoai sọ chua thanh, mát thơm, bữa cơm của gia đình bạn sẽ có thêm một món ngon mỗi ngày đậm đà và ngon miệng. Cảm giác cắn miếng thịt vịt nóng hổi, thơm phức, kết hợp cùng sấu chua nhẹ và khoai sọ bùi bùi, béo béo, quả là kích thích vị giác vô cùng.\n Sấu khiến món ăn có vị chua thanh mát, làm dậy lên sự hòa quyện tuyệt vời của các nguyên liệu chế biến cùng. Món vịt om sấu khoai sọ là sự lựa chọn tuyệt vời cho bữa ăn gia đình hoặc những buổi tiệc quan trọng. Hương vị chua thanh của sấu, vị thơm bùi của khoai sọ, thịt vịt dai ngọt tự nhiên cùng vị thơm dịu của các loại rau gia vị sẽ khiến bạn không thể cưỡng lại được.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/7655087/pexels-photo-7655087.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Gỏi dưa leo khô cá sặc",
+    "category_id":1,
+    "description": "Khô cá sặc mặn mà kết hợp với dưa leo giòn mát, đậu phộng thơm bùi và vị chua ngọt đậm đà của nước trộn gỏi vô cùng lạ miệng sẽ khiến bạn ăn hoài mà không ngán.\n Khô cá sặc là một đặc sản nổi tiếng của người dân Nam bộ. Cá sặc được tẩm mặn, phơi khô nên không cần chế biến cầu kỳ, chỉ cần đem chiên với chút dầu ăn là có ngay món ăn cơm cho những ngày bận rộn. Ngoài ra, khô cá sặc còn là nguyên liệu chính của nhiều món ngon như: gỏi xoài khô cá sặc, cơm chiên khô cá sặc, khô sặc kho tép mỡ,…\n Gỏi dưa leo khô sặc thường dùng để ăn vặt, nhâm nhi trong bữa nhậu hay làm món khai vị trong bữa tiệc nhỏ của gia đình.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/7655087/pexels-photo-7655087.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Heo rừng xào lăn",
+    "category_id":2,
+    "description": "Heo rừng có đặc điểm nổi bật với mõm dài cứng, lông nâu bạc, vóc dáng cân đối, nhanh nhẹn, di chuyển linh hoạt. Khi còn nhỏ thân mình có sọc dưa, chân cao, có lông bờm, thân mảnh. Ở tuổi trưởng thành, heo rừng có răng nanh, tai nhọn, 3 lông chụm, các lỗ chân lông khá sát nhau, hốc mắt to, chân thon hơn so với khửu gối, đầu móng guốc thon và nhọn.\n Heo rừng dễ nuôi, có sức đề kháng cao, không tốn nhiều thức ăn và công chăm sóc lại cho hiệu quả kinh tế cao nên nhiều người đã đầu tư vào mô hình chăn nuôi giống heo này. Đặc biệt, thịt heo rừng được đánh giá là thơm ngon, săn chắc, nhiều nạc, mềm, ít mỡ, da dày, giòn và có giá trị dinh dưỡng cao nên rất được ưa chuộng trên thị trường.\n Theo các chuyên gia, thịt heo rừng có hàm lượng các chất dinh dưỡng phong phú và cao hơn so với thịt heo nuôi nhà nên mang lại nhiều lợi ích cho sức khỏe.\nThịt heo rừng giàu vitamin B1, B2, B6, B12, A và D giúp cơ thể bù đắp được những loại chất mà rau củ và trái cây không có hoặc có rất ít.\nVitamin B1 có trong thịt heo rừng giúp cơ thể chống lại mệt mỏi, suy nhược. Vitamin B2 có tác dụng đào thải độc tố và tốt cho làn da, hạn chế nguy cơ mắc phải các bệnh viêm da, nhất là ở phụ nữ. Vitamin A giúp cho đôi mắt sáng, tăng cường sức đề kháng cho cơ thể. Còn vitamin D giữ vai trò quan trọng trong việc hấp thu canxi cho xương chắc khỏe.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/6763286/pexels-photo-6763286.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Gỏi dưa leo khô cá sặc",
+    "category_id":1,
+    "description": "Khô cá sặc mặn mà kết hợp với dưa leo giòn mát, đậu phộng thơm bùi và vị chua ngọt đậm đà của nước trộn gỏi vô cùng lạ miệng sẽ khiến bạn ăn hoài mà không ngán.\n Khô cá sặc là một đặc sản nổi tiếng của người dân Nam bộ. Cá sặc được tẩm mặn, phơi khô nên không cần chế biến cầu kỳ, chỉ cần đem chiên với chút dầu ăn là có ngay món ăn cơm cho những ngày bận rộn. Ngoài ra, khô cá sặc còn là nguyên liệu chính của nhiều món ngon như: gỏi xoài khô cá sặc, cơm chiên khô cá sặc, khô sặc kho tép mỡ,…\n Gỏi dưa leo khô sặc thường dùng để ăn vặt, nhâm nhi trong bữa nhậu hay làm món khai vị trong bữa tiệc nhỏ của gia đình.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/8954227/pexels-photo-8954227.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Gỏi dưa leo khô cá sặc",
+    "category_id":5,
+    "description": "Khô cá sặc mặn mà kết hợp với dưa leo giòn mát, đậu phộng thơm bùi và vị chua ngọt đậm đà của nước trộn gỏi vô cùng lạ miệng sẽ khiến bạn ăn hoài mà không ngán.\n Khô cá sặc là một đặc sản nổi tiếng của người dân Nam bộ. Cá sặc được tẩm mặn, phơi khô nên không cần chế biến cầu kỳ, chỉ cần đem chiên với chút dầu ăn là có ngay món ăn cơm cho những ngày bận rộn. Ngoài ra, khô cá sặc còn là nguyên liệu chính của nhiều món ngon như: gỏi xoài khô cá sặc, cơm chiên khô cá sặc, khô sặc kho tép mỡ,…\n Gỏi dưa leo khô sặc thường dùng để ăn vặt, nhâm nhi trong bữa nhậu hay làm món khai vị trong bữa tiệc nhỏ của gia đình.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/7655087/pexels-photo-7655087.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Bún măng vịt ",
+    "category_id":3,
+    "description": "Bún măng vịt là món ngon mỗi ngày độc đáo, quen thuộc của ẩm thực Việt Nam. Với hương vị giòn ngọt, thanh mát của măng tươi hòa quyệt cùng thịt vịt dai mềm, khi chấm kèm nước mắm gừng đậm đà, bún măng vịt dễ dàng làm xiêu lòng bất kỳ ai.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/6287520/pexels-photo-6287520.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Canh chua cá lóc",
+    "category_id":1,
+    "description": "Canh chua cá lóc (cá quả) là món ngon mỗi ngày dân dã, quen thuộc ở những miền quê, sông nước Việt Nam. Món canh này có nhiều cách chế biến tùy theo đặc trưng của từng vùng miền. \n Món canh chua bắt nguồn từ những lưu dân Việt sống quây quần quanh cửa sông, vùng duyên hải, nơi có nhiều cây bần bám trụ sinh sôi, nảy nở. Dưới gốc bần có một loài cá mắn đẻ, thịt ngọt, chuyên ăn quả bần chín rụng mà lớn, vừa hay con cá này lại hợp “gu” với quả bần tạo thành món canh chua cá đặc sắc, thơm ngon.\n Canh chua về sau được biến tấu nhiều thêm, nào là canh chua cá diêu hồng me trái, canh chua cá tra nấu măng… Trong đó, canh chua cá lóc là món ăn làm nên thương hiệu cho ẩm thực Nam Bộ. Tất cả các nguyên liệu đều có nguồn gốc từ thiên nhiên, tạo nên hương vị đặc trưng không lẫn vào đâu được.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/6287520/pexels-photo-6287520.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Nghêu hấp sả ớt",
+    "category_id":1,
+    "description": "Nghêu hấp sả Thái đích thị là món ăn kinh điển khi nhắc đến ốc Sài Gòn. Những con nghêu béo ú có vị ngọt mặn đặc trưng hòa quyện cùng vị chua của me, vị thơm cay nồng của sả, ớt sẽ khiến bạn phải háo hức\n Nghêu hấp sả Thái mang hương vị đặc trưng của ẩm thực xứ sở Chùa Vàng. Nồi nghêu hấp nóng hổi, tỏa hương thơm phức, rất thích hợp dùng cùng cơm hoặc bún trong những ngày trời mưa hoặc thời tiết trở lạnh. ",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/2059150/pexels-photo-2059150.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Cá chẽm chưng tương",
+    "category_id":2,
+    "description": "Cá chẽm còn gọi là cá vược (có tên tiếng anh là lates calcarifer), là loại cá được xếp vào loại hải sản cao cấp vì chất lượng thịt thơm ngọt, ít xương và giàu dinh dưỡng.\n Thịt cá chẽm giàu chất đạm, chất béo, acid béo omega-3, calories, canxi, magnesium, sắt, … vì vậy mà nó rất thích hợp để điều trị chứng hư nhược, phù thũng, gân sưng, sinh lý yếu, đái tháo đường, các chứng liên quan đến khí huyết hư, tốt cho phụ nữ có thai và cho con bú.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/2403391/pexels-photo-2403391.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Salad cá ngừ",
+    "category_id":1,
+    "description": "Món salad cá ngừ (tuna salad) thường được rất nhiều người yêu thích và dùng làm món khai vị trong các bữa ăn. Cách làm salad cá ngừ lại đơn giản, trong cá ngừ có chứa nguồn Protein dồi dào, nhiều loại Vitamin và khoáng chất có lợi cho cơ thể, lại ít béo nên rất ngon và bổ dưỡng.\n Sự kết hợp tuyệt vời giữa cá ngừ với các gia vị, nguyên liệu chủ yếu có nguồn gốc thực vật như: rau xanh, củ quả, trái cây làm món tuna salad trở nên hấp dẫn và ngon miệng hơn rất nhiều.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/2403391/pexels-photo-2403391.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Thịt kho tàu",
+    "category_id":2,
+    "description": "Khi nhắc đến những món ăn ngày Tết, ắt hẳn bạn sẽ không thể bỏ qua thịt kho tàu. Chỉ cần nghe hương thơm hấp dẫn, béo ngậy tỏa ra từ nồi thịt kho cùng với chén cơm trắng nóng bốc hơi nghi ngút ăn kèm dưa hành, củ kiệu là thấy Tết kề bên. Miếng thịt kho thơm lừng, chín mềm, béo ngậy quyện lẫn với vị ngọt bùi của trứng sẽ kích thích vị giác của mọi thành viên trong gia đình bạn.",
+    "rate": 4,
+    "image": "https://www.disneycooking.com/wp-content/uploads/2019/08/th%E1%BB%8Bt-kho-t%C3%A0u.jpg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Bò bít tết sốt tiêu đen",
+    "category_id":4,
+    "description": "Bò bít tết sốt tiêu đen là món ăn của phương Tây có xuất xứ từ Mỹ, đặc trưng của món ăn là miếng thịt bò to, mềm, khi thái ra vẫn còn màu hồng chín tái, với hương vị thơm ngon, thịt ngọt ăn kèm với sốt tiêu đen. Khi ăn nhâm nhi cùng chút salad hay khoai tây chiên.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/2403391/pexels-photo-2403391.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Lẩu gà tiềm ớt hiểm",
+    "category_id":3,
+    "description": "Lẩu gà tiềm ớt hiểm mang hương vị độc đáo, hấp dẫn khi kết hợp nguyên liệu ớt hiểm, thịt gà dai ngon cùng nước lẩu thanh ngọt, cay nhẹ. Với cách nấu lẩu gà ớt hiểm được chia sẻ qua bài viết sau đây, bạn có thể trổ tài chế biến món ngon mỗi ngày này trong những dịp cuối tuần rảnh rỗi để chiêu đãi bạn bè, người thân của mình.\n Thịt gà là nguồn thực phẩm bổ dưỡng, giàu đạm Protein và chứa nhiều loại Vitamin. Chế biến món ngon từ thịt gà là cách để bổ sung dưỡng chất, bồi bổ sức khỏe sau những ngày làm việc mệt mỏi. Bên cạnh đó, ớt hiểm chứa các chất giúp lưu thông máu, tốt cho tim, làm giảm huyết áp… Món lẩu gà tiềm ớt hiểm không cay nồng như nhiều người nghĩ, ngược lại, hương vị ngọt thanh, cay nhẹ của món ăn này lại rất được yêu thích.\n Ngoài hương vị hấp dẫn của thịt gà tươi ngon, ớt hiểm cay the, đây còn là món ăn bổ dưỡng khi kết hợp với nhiều nguyên liệu tốt cho sức khỏe như kỷ tử, hành tây, hành tím, tỏi… Món lẩu gà tiềm ớt hiểm cực thích hợp để đổi vị cho thực đơn hàng ngày của gia đình, hoặc bạn cũng có thể trổ tài chế biến để kéo bạn bè cùng thưởng thức món ăn hấp dẫn cho những ngày cuối tuần.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  },
+  {
+    "title": "Chả giò thịt heo khoai môn",
+    "category_id":5,
+    "description": "Chả giò thịt heo khoai môn đơn giản mà thành phẩm lại cực kì hấp dẫn. Nguyên liệu quen thuộc cùng hương vị thơm ngon của món ăn sẽ khiến bạn muốn bắt tay vào làm ngay. Chả giò là món ăn ngon mỗi ngày quen thuộc với nhiều người. Màu vàng ươm bắt mắt, khi ăn đem lại cảm giác giòn tan và ngọt mềm từ phần nhân bên trong.",
+    "rate": 4,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "meta": {
+      "prep": 30,
+      "cook": 30,
+      "feed": "4-5"
+    }
+  }
+]

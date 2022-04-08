@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ăn vặt",
+    "image": "https://images.pexels.com/photos/2725744/pexels-photo-2725744.jpeg",
+    "description": "Ăn vặt là trường hợp ăn thức ăn hoặc dùng đồ uống giữa các bữa ăn chính thông thường hàng ngày. Thuật ngữ thực phẩm ăn nhẹ trong ăn vặt thường được dùng để chỉ các loại thức ăn được chế biến sẵn"
+  },
+  {
+    "id": 2,
+    "name": "Món kho",
+    "image": "https://images.pexels.com/photos/3338497/pexels-photo-3338497.jpeg",
+    "description": "Kho: là phương pháp làm chín thực phẩm bằng cách dùng ít nước và gia vị (chủ yếu là gia vị mặn ), đun trong thời gian lâu để thực phẩm ngấm mặn và chín dừ"
+  },
+  {
+    "id": 3,
+    "name": "Món luộc",
+    "image": "https://images.pexels.com/photos/3722584/pexels-photo-3722584.jpeg",
+    "description": "Luộc là một phương pháp chế biến món ăn, làm chín thực phẩm bằng cách sử dụng nhiệt thông qua môi trường truyền nhiệt là nước. Thực phẩm đặt chìm trong nước đã đun sôi hay nước nguội rồi đun với lửa vừa cho đến khi thực phẩm chín tới hay chín vừa"
+  },
+  {
+    "id": 4,
+    "name": "Món nướng",
+    "image": "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg",
+    "description": "Nướng là một cách chế biến món ăn. Thực phẩm được đặt vào môi trường có nhiệt độ cao để cho chín với bề ngoài bị cháy để tạo mùi thơm hoặc màu cho thực phẩm"
+  },
+  {
+    "id": 5,
+    "name": "Bánh ngọt",
+    "image": "https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg",
+    "description": "Bánh ngọt hay bánh ga-tô (phương ngữ miền Bắc, bắt nguồn từ gâteux trong tiếng Pháp) là một loại thức ăn thường dưới hình thức món bánh dạng bánh mì từ bột nhào, được nướng lên dùng để tráng miệng. Bánh ngọt có nhiều loại, có thể phân loại dựa theo nguyên liệu và kỹ thuật chế biến như bánh ngọt làm từ lúa mì, bơ, bánh ngọt dạng bọt biển"
+  }
+]
